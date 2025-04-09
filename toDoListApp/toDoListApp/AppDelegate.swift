@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  to-do-list-app
+//  toDoListApp
 //
-//  Created by RMS on 18/03/2025.
+//  Created by RMS on 25/03/2025.
 //
 
 import UIKit
